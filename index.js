@@ -1,18 +1,21 @@
-let nombre = ("juan")
-let edad = (25)
-let ciudad = ("madrid")
-let numero1 =
-letnumero2=
-letsuma =(numero1+numero2)
-let hola =("santino")
-let ,nombre,usuario =
-let ,mensaje,completo =
-console.log = "hola,nombre,mensaje completo"
+let n1 = Number (prompt('Ingresa un valor') )
+let n2 =  Number (prompt('Ingresa un valor') ) 
+let nombre = prompt ("ingresa un nombre")
+console.log (n1+n2) 
+console.log (n1-n2) 
+console.log (n1*n2)
+console.log  (n1/n2)
+alert("hola" + nombre)
 
+if ("si estas aprobado>estas desaprobado") {
+    alert("estas aprobado")
+    
+} else {
+  alert("estas desaprobado")  
+}
 
-console.log =(numero1+numero2)
-
-
-
-
-console.log(nombre,edad,ciudad)
+if ("sacar la basura lunes miercoles jueves sabado residuos secos, martes viernes y domingo humedos") {
+    console.log("escribir un dia de la semana")
+} else {
+    
+}
